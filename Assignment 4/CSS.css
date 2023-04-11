@@ -1,0 +1,27 @@
+body{
+      color: rgb(255, 255, 255);
+      background-color: rgb(255, 255, 255);
+      background-image: url("arizona\ sunsent.jpg");
+      background-size: 1300px 1400px; 
+      background-repeat: no-repeat;    }
+body{
+
+      
+}
+h1{
+    font-size: 60pt;
+    color: rgb(255, 255, 255); 
+    padding: 0px;
+}
+p{
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(167, 22, 22);
+font-size: 50px;
+}
+P1{
+font-size: 25px;
+
+}
+.title{
+      font-weight: bolder;
+}
